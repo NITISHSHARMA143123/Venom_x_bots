@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 𝐋𝐈𝐋𝐘-𝐂𝐇𝐀𝐓𝐁𝐎𝐓 」──
+──「 𝐋𝐈𝐋𝐘-𝐂𝐇𝐀𝐓𝐁𝐎𝐓 」──
 </h2>
 <p align="center">
   <img src="https://graph.org/file/fd590b09187a22c6aac36.mp4>"
@@ -40,16 +40,15 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 
 <h2 align="center"> ──「 sᴜᴘᴘᴏʀᴛ 」──</h2>
-<p align="center"><a href="https://t.me/we_rfriends"> <img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
+<p align="center"><a href="https://t.me/vw_chatting_club"> <img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
 <p align="center"><a href="https://t.me/DEVBOTZ"> <img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
 
 <h3 align="center">──「 ʀᴇᴘᴏ sᴛᴀᴛs 」──</h3>
-<a href="https://github.com/Devarora-0981/Mickey"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Devarora-0981&repo=Mickey&theme=chartreuse-dark"></a>
+<a href="https://github.com/Devarora-0981/venom"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Devarora-0981&repo=venom&theme=chartreuse-dark"></a>
 
 
 <h3 align="center">──「 sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs 」──</h3>
 
-- [ᴘʀᴀɴᴀᴠ ᴀᴊᴀʏ](https://github.com/Moezilla)
-- [ᴀʙɪsʜɴᴏɪ](https://t.me/its_arrryan)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- (https://github.com/Moezilla)
+- [owner](https://t.me/its_arrryan)
 
